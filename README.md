@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Vikas Vaibhav</h1>
+<h1 align="center">Vikas Vaibhav</h1>
 
 <p align="center">
 💻 Full Stack Developer | MERN & Next.js Enthusiast | Open Source Contributor  
