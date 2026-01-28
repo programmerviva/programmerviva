@@ -1,52 +1,103 @@
-<h1 align="center">Vikas Vaibhav</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=190&section=header&text=Vikas%20Vaibhav&fontSize=50&fontColor=ffffff&desc=Founder%20%7C%20CEO%20%7C%20Senior%20Full%20Stack%20Engineer&descAlignY=68&descSize=16" />
+</p>
 
 <p align="center">
-💻 Full Stack Developer | MERN & Next.js Enthusiast | Open Source Contributor  
+Building scalable software, leading teams, and turning ideas into products.
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧠 About Me
 
-💻 I'm a passionate **Software Developer** from India  
-🌍 I enjoy building **full-stack web applications** and experimenting with new tech  
-🧠 Currently working with **MERN Stack**, **Next.js**, **React Native Expo**, **Django**, and **Flutter**  
-🌱 Learning cloud deployment and contributing to open-source projects  
-💬 Ask me anything about **React**, **Next.js**, **TypeScript**, **.NET**, **SQL**, or **Django**
+I’m **Vikas Vaibhav (programmerviva)** — a **Founder CEO TL Engineer**.
+
+I started coding at a time when there were **no AI shortcuts** — debugging meant reading documentation, understanding internals, and solving problems from first principles. That foundation still defines how I work today.
+
+- Experienced both **pre-AI and AI-assisted development eras**
+- Focused on **engineering depth**, not surface-level tools
+- Build **production systems**, not just portfolios
+- Comfortable taking **technical ownership** and architectural responsibility
+- Hands-on across multiple **core languages and ecosystems**
+
+I value **clarity, maintainability, and long-term scalability** over hype-driven development.
 
 ---
 
-### 🛠️ Tech Stack
+## 🏢 Current Role & Responsibilities
 
-#### 💻 Languages & Frameworks
-- JavaScript (ES6+), TypeScript, Python, C#
-- React.js, Next.js, MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- React Native & React Native Expo
-- Django, Flutter
-- ASP.NET, SQL Server
+- 🚀 **Founder & CEO** – Visionary Coders  
+- 🧠 **Technical Decision Maker & Architect**  
+- 👨‍💻 **Senior Full Stack Engineer**  
+- 👥 **Team Lead & Code Reviewer**
 
-#### 🌐 Frontend Tools
-- HTML, CSS, Bootstrap, Tailwind CSS
+I work end-to-end — from **product vision and system design** to **execution and deployment**.
+
+---
+
+## 🛠️ Technology Stack
+
+### 💻 Programming Languages
+- JavaScript (ES6+), TypeScript  
+- Python, C#  
+- SQL  
+
+### ⚙️ Frameworks & Platforms
+- React.js, Next.js
+- MERN Stack (MongoDB, Express, React, Node.js)
+- React Native (Expo)
+- Django
+- Flutter
+- ASP.NET (.NET ecosystem)
+
+### 🎨 Frontend Engineering
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap
 - Redux, Context API
-- Styled Components, Framer Motion
+- Framer Motion, Styled Components
+- shadcn/ui (SaaS-grade UI systems)
 
-#### 🛢️ Databases
-- MongoDB, SQL Server, Neon (PostgreSQL), Appwrite
+### 🛢️ Databases & Backend
+- MongoDB
+- SQL Server
+- PostgreSQL (Neon)
+- Appwrite
 
-#### ☁️ DevOps & Deployment
-- Git, GitHub
-- Vercel, Render, Hostinger, Azure (learning)
-
----
-
-### 📫 Let's Connect
-
-- 📧 Email: sd.vikasvaibhav@gmail.com  
-- 🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/vikasvaibhav)  
-- 🌐 Portfolio: [programmerviva](https://vivaportfolio.vercel.app)
+### ☁️ DevOps & Deployment
+- Git & GitHub (collaboration, reviews, workflows)
+- Vercel, Render, Hostinger
+- Azure (actively exploring)
 
 ---
 
-### 🔥 Fun Fact
+## 🧩 How I Think About Engineering
 
-> I build, break, debug, and repeat until it's perfect — coding is my caffeine! ☕
+- Fundamentals matter more than frameworks  
+- Architecture decisions outlive code syntax  
+- Readable systems scale better than clever hacks  
+- Shipping is important, but **shipping responsibly** matters more  
+
+> “Good software is not just functional — it’s understandable, extensible, and resilient.”
+
+---
+
+## 🌍 Open Source & Knowledge Sharing
+
+- Active on GitHub
+- Strong believer in **learning by building**
+- Share practical solutions based on real constraints
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: **sd.vikasvaibhav@gmail.com**  
+- 🔗 LinkedIn: https://linkedin.com/in/vikasvaibhav  
+- 🌐 Portfolio: https://programmerviva.in  
+
+---
+
+## 🔥 Personal Note
+
+> I’ve debugged systems alone, with teams, without AI, and with AI —  
+> the tools changed, but **engineering judgment still matters most**.
