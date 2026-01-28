@@ -35,41 +35,6 @@ I work end-to-end — from **product vision and system design** to **execution a
 
 ---
 
-## 🛠️ Technology Stack
-
-### 💻 Programming Languages
-- JavaScript (ES6+), TypeScript  
-- Python, C#  
-- SQL  
-
-### ⚙️ Frameworks & Platforms
-- React.js, Next.js
-- MERN Stack (MongoDB, Express, React, Node.js)
-- React Native (Expo)
-- Django
-- Flutter
-- ASP.NET (.NET ecosystem)
-
-### 🎨 Frontend Engineering
-- HTML5, CSS3
-- Tailwind CSS, Bootstrap
-- Redux, Context API
-- Framer Motion, Styled Components
-- shadcn/ui (SaaS-grade UI systems)
-
-### 🛢️ Databases & Backend
-- MongoDB
-- SQL Server
-- PostgreSQL (Neon)
-- Appwrite
-
-### ☁️ DevOps & Deployment
-- Git & GitHub (collaboration, reviews, workflows)
-- Vercel, Render, Hostinger
-- Azure (actively exploring)
-
----
-
 ## 🧩 How I Think About Engineering
 
 - Fundamentals matter more than frameworks  
