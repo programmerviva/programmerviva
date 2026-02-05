@@ -57,7 +57,7 @@ I work end-to-end — from **product vision and system design** to **execution a
 ## 📫 Get in Touch
 
 - 📧 Email: **sd.vikasvaibhav@gmail.com**  
-- 🔗 LinkedIn: https://linkedin.com/in/vikasvaibhav  
+- 🔗 LinkedIn: https://linkedin.com/in/programmerviva/  
 - 🌐 Portfolio: https://programmerviva.in  
 
 ---
